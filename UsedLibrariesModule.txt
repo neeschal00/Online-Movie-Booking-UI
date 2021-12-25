@@ -1,0 +1,23 @@
+#Existing library
+Tkinter
+re (Regex)
+OS
+datetime
+
+
+
+#Need Instalation if not installed
+pillow
+omdb
+python-resize-image
+mysql-connector
+requests
+webbrowser
+
+
+#Created Modules
+main_app(runs as the main part)
+admin_m (consits classes used for admin)
+user_m (consists classes used for user)
+test_conditionalquery(Unittesting)
+omdbapi (to get omdb api data for movie)

@@ -1,0 +1,5 @@
+-- use onlinemovie;
+-- select * from admindata;
+-- alter table moviedetail 
+-- add column dates json after movie_genre;
+-- select * from bookedmovie;
