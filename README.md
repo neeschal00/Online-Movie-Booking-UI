@@ -14,7 +14,7 @@ Also as an Admin one can create a movie listing, update, delete the booking with
 ![Alt text](screenshot/Screenshot_166.png "HomePage")
 
 ### Movie Booking Confirmation
-![Alt text](screenshot/Screenshot_141.png "Booking Confirmation")
+![Alt text](screenshot/Screenshot_147.png "Booking Confirmation")
 
 ### Movie Details with OmDb fetch
 ![Alt text](screenshot/Screenshot_161.png "Movie Details")
@@ -24,6 +24,6 @@ Also as an Admin one can create a movie listing, update, delete the booking with
 
 ![Alt text](screenshot/Screenshot_144.png "Movie 2")
 
-![Alt text](screenshot/Screenshot_147.png "Movie 3")
+![Alt text](screenshot/Screenshot_141.png "Movie 3")
 
 ![Alt text](screenshot/Screenshot_129.png "Movie 4")
