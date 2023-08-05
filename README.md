@@ -26,4 +26,3 @@ Also as an Admin one can create a movie listing, update, delete the booking with
 
 ![Alt text](screenshot/Screenshot_141.png "Movie 3")
 
-![Alt text](screenshot/Screenshot_129.png "Movie 4")
